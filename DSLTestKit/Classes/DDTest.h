@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 +(void)secendFuction;
 
 +(void)threeFuction;
+
++(void)foureFuction;
 @end
 
 NS_ASSUME_NONNULL_END

@@ -19,4 +19,7 @@
 +(void)threeFuction{
     NSLog(@"threeFuction");
 }
++(void)foureFuction{
+    NSLog(@"threeFuction");
+}
 @end
