@@ -1,0 +1,6 @@
+framework module Pods_DSLTestKit_Example {
+  umbrella header "Pods-DSLTestKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DSLTestKit",
+  "version": "0.1.0",
+  "summary": "一个简单的测试Pod",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/x-oauth-basic/DSLTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "x-oauth-basic": "anflutter@126.com"
+  },
+  "source": {
+    "git": "https://github.com/x-oauth-basic/DSLTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DSLTestKit/Classes/**/*"
+}

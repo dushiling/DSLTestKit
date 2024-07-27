@@ -1,0 +1,16 @@
+PODS:
+  - DSLTestKit (0.1.0)
+
+DEPENDENCIES:
+  - DSLTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  DSLTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSLTestKit: 621f695397c91bd48d5853cc9ff334604f9e8fa6
+
+PODFILE CHECKSUM: e32f57e65dd733309866b62ebbd70dafeb1765ad
+
+COCOAPODS: 1.15.2
