@@ -38,12 +38,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		16DCC9349B76CEBCF4C5F33851B81396 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		16DCC9349B76CEBCF4C5F33851B81396 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		198FFE39D41BDBB54D896E9CEED52C75 /* Pods-DSLTestKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DSLTestKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1A4EBDC979C469DD9FD255055490EE03 /* DSLTestKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DSLTestKit.modulemap; sourceTree = "<group>"; };
 		1FBF28344C52C2BE0D8620525A5ED409 /* DSLTestKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DSLTestKit.debug.xcconfig; sourceTree = "<group>"; };
 		26DCDC2140A778101A4D6499E625A485 /* DSLTestKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DSLTestKit.release.xcconfig; sourceTree = "<group>"; };
-		2A52CC8E515156E10F9F9221A3C31D23 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		2A52CC8E515156E10F9F9221A3C31D23 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2B2F5D6002E04DCB057557DDA84364CF /* DDTest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDTest.h; path = DSLTestKit/Classes/DDTest.h; sourceTree = "<group>"; };
 		310BD5CB2DA0DA50658578418391AFDD /* Pods-DSLTestKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSLTestKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		35B23EC590909F97C7078D12673E4B2F /* Pods-DSLTestKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSLTestKit_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -57,9 +57,9 @@
 		8A37C1AA5A791779A938C100E35B58D7 /* DSLTestKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DSLTestKit-Info.plist"; sourceTree = "<group>"; };
 		8E14F20A410D425792FE8C91A76A7363 /* Pods-DSLTestKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DSLTestKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9B2BFD56DF6B2B4F5B03CEA6F65B3588 /* Pods-DSLTestKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DSLTestKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9FBDF1163220A0B05F29C514D0841C3C /* Pods-DSLTestKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DSLTestKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		ABD591F13948770941D27F256D21CDB2 /* DSLTestKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DSLTestKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		ABD591F13948770941D27F256D21CDB2 /* DSLTestKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DSLTestKit.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		AD8F50F4DA832FE17229E8D6E0231267 /* DSLTestKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DSLTestKit-dummy.m"; sourceTree = "<group>"; };
 		AED205C6F06ECC2BF5FE6CA839026702 /* Pods-DSLTestKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DSLTestKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BDB16B4451A52E2C1BBA86B9181A3366 /* Pods-DSLTestKit_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DSLTestKit_Example"; path = Pods_DSLTestKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -497,8 +497,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
